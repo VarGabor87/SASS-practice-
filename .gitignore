@@ -3,4 +3,4 @@
 *.sass.map
 *.scss.map
 
-node-modules/
+node_modules/
